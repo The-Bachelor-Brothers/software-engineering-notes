@@ -1,3 +1,7 @@
+---
+title: "Software Design"
+---
+
 ## Software Metrics
 
 - [ABC Software Metric](https://en.wikipedia.org/wiki/ABC_Software_Metric) — an ABC score as a triplet of values that represent the size of a set of source code statements.

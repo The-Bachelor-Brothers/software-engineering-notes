@@ -1,3 +1,7 @@
+---
+title: "Project Management"
+---
+
 ## Project Life Cycles
 
 - [Defining](https://en.wikipedia.org/wiki/Project_management#Initiating) — the phase wherein the nature and scope of the project is determined.

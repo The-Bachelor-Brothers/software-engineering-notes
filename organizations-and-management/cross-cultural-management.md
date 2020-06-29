@@ -1,3 +1,7 @@
+---
+title: "Cross Cultural Management"
+---
+
 ## Cultural Frameworks
 
 Definition:

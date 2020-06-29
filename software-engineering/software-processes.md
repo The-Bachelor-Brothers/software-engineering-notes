@@ -1,3 +1,7 @@
+---
+title: "Software Processes"
+---
+
 Most Software Processes are more or less Hybrids, so to avoid disagreement, the processes will be represented as is.
 
 - [Kanban](https://www.atlassian.com/agile/kanban) — a lean method that relies heavily on the usage of a project board, and good communication.
