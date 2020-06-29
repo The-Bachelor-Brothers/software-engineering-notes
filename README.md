@@ -13,6 +13,7 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
     - [Algorithms](computer-science/algorithms.md)
     - [Datastructures](computer-science/datastructures.md)
     - [Database Theory](computer-science/database-theory.md)
+    - [Programming Basics](computer-science/programming-basics.md)
     - [Programming Languages](computer-science/programming-languages/index.md)
       - [C#](computer-science/programming-languages/csharp.md)
       - [Java](computer-science/programming-languages/java.md)
