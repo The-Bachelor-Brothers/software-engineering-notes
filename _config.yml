@@ -16,5 +16,10 @@ include:
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-sidebar:
-  nav: "docs"
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sidebar:
+        nav: "docs"
