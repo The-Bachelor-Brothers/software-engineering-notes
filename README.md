@@ -23,6 +23,7 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
     - [Programming Paradigms](software/programming-paradigms/index.md)
       - [Component-based](software/programming-paradigms/component-based.md)
       - [Object-oriented](software/programming-paradigms/object-oriented.md)
+    - [Software Design](software/software-design.md)
 2. [Math](math/index.md)
 3. [Organization and Management](organization-and-management/index.md)
     - [Cross Cultural Management](organization-and-management/cross-cultural-management.md)
