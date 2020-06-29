@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /README/
+    url: /
   - title: "Computing and Hardware"
     url: /computing-and-hardware/
   - title: "Databases"
