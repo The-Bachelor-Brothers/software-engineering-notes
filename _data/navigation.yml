@@ -15,7 +15,7 @@ docs:
   - title: Databases
     children:
       - title: "Relational Databases"
-        url: /databases/relational-databases/
+        url: /databases/relational-databases
 
   - title: Math
     children:
