@@ -18,7 +18,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 defaults:
   - scope:
-      path: ""
+      path: "*"
       type: pages
     values:
       sidebar:
