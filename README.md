@@ -1,6 +1,6 @@
 # Introduction
 
-This site contains notes, cheatsheets, links, videos and more, which we deemed relevant in understanding a given subject from a course. The site will aim to keep things simple, and organized, so better or newer material will replace old and obsolete material. In other words, the site will be used for notes that help us complete exams, but material not relevant after completing an exam will be deleted, to keep the information relevant in the long term.
+This site contains notes, cheatsheets, links, videos and more, which is deemed relevant in understanding a given subject in the journey to become a Software Engineer and full-stack developer. The site will aim to keep things simple, organized and up-to-date — better or newer material will replace old and obsolete material. 
 
 ## Subjects covered
 
