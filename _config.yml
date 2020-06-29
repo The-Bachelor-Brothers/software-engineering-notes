@@ -5,6 +5,7 @@ relative_links:
   enabled: true
   collections: true
 search: true
+search_full_content: true
 # breadcrumbs: true
 include:
   - CONTRIBUTING.md
