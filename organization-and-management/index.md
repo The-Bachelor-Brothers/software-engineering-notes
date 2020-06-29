@@ -6,4 +6,4 @@ Missing Description
 
 - [Cross Cultural Management](cross-cultural-management.md)
 - Organizational Theory
-- Project Organization & Management
+- [Project Organization and Management](project-organization-and-management.md)
