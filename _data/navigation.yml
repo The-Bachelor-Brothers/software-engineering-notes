@@ -1,15 +1,77 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Computing and Hardware"
-    url: /computing-and-hardware/
-  - title: "Databases"
-    url: /databases/
-  - title: "Math"
-    url: /math/
-  - title: "Organization and Management"
-    url: /organization-and-management/
-  - title: "Programming"
-    url: /programming/
-  - title: "Software Engineering"
-    url: /software-engineering/
+  - title: "GitHub"
+    url: https://github.com/The-Bachelor-Brothers/software-engineering-notes
+
+docs:
+  - title: Computing and Hardware
+    children:
+      - title: "Computing Basics"
+        url: /computing-and-hardware/computing-basics/
+      - title: "Operating Systems"
+        url: /computing-and-hardware/operating-systems
+      - title: "Virtual Machines and Containerization"
+        url: /computing-and-hardware/virtual-machines-and-containerization/
+
+  - title: Databases
+    children:
+      - title: "Relational Databases"
+        url: /databases/relational-databases/
+
+  - title: Math
+    children:
+      - title: "empty"
+        url: /
+
+  - title: Networking
+    children:
+      - title: "empty"
+        url: /
+
+  - title: Organizations and Management
+    children:
+      - title: "Cross Cultural Management"
+        url: /organizations-and-management/cross-cultural-managment/
+      - title: "Organizational Theory"
+        url: /organizations-and-management/organizational-theory/
+      - title: "Project Management"
+        url: /organizations-and-management/project-management/
+
+  - title: Programming
+    children:
+      - title: "Algorithms"
+        url: /programming/algorithms/
+      - title: "Datastructures"
+        url: /programming/datastructures/
+      - title: "Programming Basics"
+        url: /programming/programming-basics/
+
+  - title: Programming Languages
+    children:
+      - title: "C#"
+        url: /programming-languages/csharp/
+      - title: "Java"
+        url: /programming-languages/java/
+      - title: "JavaScript"
+        url: /programming-languages/javascript/
+      - title: "PHP"
+        url: /programming-languages/php/
+
+  - title: Programming Paradigms
+    children:
+      - title: "Component-based Programming"
+        url: /programming-paradigms/component-based/
+      - title: "Functional Programming"
+        url: /programming-paradigms/functional/
+      - title: "Object-oriented Programming"
+        url: /programming-paradigms/object-oriented/
+
+  - title: Software Engineering
+    children:
+      - title: "Software Design"
+        url: /software-engineering/software-design/
+      - title: "Software Documentation"
+        url: /software-engineering/software-documentation/
+      - title: "Software Processes"
+        url: /software-engineering/software-processes/
+      - title: "Unified Modelling Language (UML)"
+        url: /software-engineering/uml/

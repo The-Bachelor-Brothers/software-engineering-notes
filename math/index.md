@@ -1,5 +1,0 @@
-# Math
-
-## Subjects
-
-- none yet
