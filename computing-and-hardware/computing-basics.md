@@ -1,3 +1,0 @@
-# Computing Basics
-
-description

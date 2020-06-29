@@ -1,5 +1,0 @@
-
-
-# Component-based programming
-
-description

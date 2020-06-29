@@ -1,5 +1,3 @@
-# Organizational Theory
-
 - [Mergers and Acquisitions](https://www.edupristine.com/blog/mergers-acquisitions)
 
 ## Organizational Structures

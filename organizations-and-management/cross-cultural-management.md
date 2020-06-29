@@ -1,7 +1,3 @@
-# Cross Cultural Management
-
-Missing Description
-
 ## Cultural Frameworks
 
 Definition:

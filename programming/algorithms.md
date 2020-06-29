@@ -1,7 +1,3 @@
-# Algorithms
-
-description
-
 ## Algorithm Metrics
 
 - [Brodal Cycles](https://nicklas.xyz/dm507f20/uge6/uge6.html) — a metric that can help one analyze how many steps it takes to solve an exchange puzzle.
