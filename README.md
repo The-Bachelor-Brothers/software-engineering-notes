@@ -19,11 +19,9 @@ This site contains notes, cheatsheets, links, videos and more, which we deemed r
     - Programming Paradigms
       - Component-based
       - Object-oriented
-2. Discrete Math
-3. Organization and Management
+2. [Math](math/index.md)
+3. [Organization and Management](organization-and-management/index.md)
     - Cross Cultural Management
     - Organizational Theory
     - Project Organization & Management
-4. Software Engineering
-
-To contribute go to [github-repo](https://github.com/The-Bachelor-Brothers/software-engineering-notes)
+4. [Software Engineering](software-engineering/index.md)
