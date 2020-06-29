@@ -1,5 +1,3 @@
-{% include breadcrumbs.html %}
-
 # Programming Languages
 
 description
@@ -10,5 +8,3 @@ description
 - [Java](java.md)
 - [JavaScript](javascript.md)
 - [PHP](php.md)
-
-{% include breadcrumbs.html %}

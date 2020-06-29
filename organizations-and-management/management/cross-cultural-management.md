@@ -1,5 +1,3 @@
-{% include breadcrumbs.html %}
-
 # Cross Cultural Management
 
 Missing Description
@@ -155,5 +153,3 @@ Some of these cultures interact in ways that influence each-other as proposed in
 
 - [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 - [Stereotypes](https://en.wikipedia.org/wiki/Stereotype)
-
-{% include breadcrumbs.html %}

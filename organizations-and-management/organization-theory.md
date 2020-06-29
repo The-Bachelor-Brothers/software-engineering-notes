@@ -1,5 +1,3 @@
-{% include breadcrumbs.html %}
-
 # Organizational Theory
 
 - [Mergers and Acquisitions](https://www.edupristine.com/blog/mergers-acquisitions)
@@ -13,5 +11,3 @@
 ## Organizational Design
 
 ## Organizational Change
-
-{% include breadcrumbs.html %}

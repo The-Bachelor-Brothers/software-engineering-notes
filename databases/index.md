@@ -1,5 +1,3 @@
-{% include breadcrumbs.html %}
-
 # Databases
 
 description
@@ -7,5 +5,3 @@ description
 ## Subjects
 
 - [Relational Databases](relational-databases.md)
-
-{% include breadcrumbs.html %}
