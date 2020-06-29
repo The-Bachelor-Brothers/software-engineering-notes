@@ -6,11 +6,11 @@ docs:
   - title: Computing and Hardware
     children:
       - title: "Computing Basics"
-        url: /computing-and-hardware/computing-basics/
+        url: /computing-and-hardware/computing-basics
       - title: "Operating Systems"
         url: /computing-and-hardware/operating-systems
       - title: "Virtual Machines and Containerization"
-        url: /computing-and-hardware/virtual-machines-and-containerization/
+        url: /computing-and-hardware/virtual-machines-and-containerization
 
   - title: Databases
     children:
@@ -30,48 +30,48 @@ docs:
   - title: Organizations and Management
     children:
       - title: "Cross Cultural Management"
-        url: /organizations-and-management/cross-cultural-managment/
+        url: /organizations-and-management/cross-cultural-managment
       - title: "Organizational Theory"
-        url: /organizations-and-management/organizational-theory/
+        url: /organizations-and-management/organizational-theory
       - title: "Project Management"
-        url: /organizations-and-management/project-management/
+        url: /organizations-and-management/project-management
 
   - title: Programming
     children:
       - title: "Algorithms"
-        url: /programming/algorithms/
+        url: /programming/algorithms
       - title: "Datastructures"
-        url: /programming/datastructures/
+        url: /programming/datastructures
       - title: "Programming Basics"
-        url: /programming/programming-basics/
+        url: /programming/programming-basics
 
   - title: Programming Languages
     children:
       - title: "C#"
-        url: /programming-languages/csharp/
+        url: /programming-languages/csharp
       - title: "Java"
-        url: /programming-languages/java/
+        url: /programming-languages/java
       - title: "JavaScript"
-        url: /programming-languages/javascript/
+        url: /programming-languages/javascript
       - title: "PHP"
-        url: /programming-languages/php/
+        url: /programming-languages/php
 
   - title: Programming Paradigms
     children:
       - title: "Component-based Programming"
-        url: /programming-paradigms/component-based/
+        url: /programming-paradigms/component-based
       - title: "Functional Programming"
-        url: /programming-paradigms/functional/
+        url: /programming-paradigms/functional
       - title: "Object-oriented Programming"
-        url: /programming-paradigms/object-oriented/
+        url: /programming-paradigms/object-oriented
 
   - title: Software Engineering
     children:
       - title: "Software Design"
-        url: /software-engineering/software-design/
+        url: /software-engineering/software-design
       - title: "Software Documentation"
-        url: /software-engineering/software-documentation/
+        url: /software-engineering/software-documentation
       - title: "Software Processes"
-        url: /software-engineering/software-processes/
+        url: /software-engineering/software-processes
       - title: "Unified Modelling Language (UML)"
-        url: /software-engineering/uml/
+        url: /software-engineering/uml
