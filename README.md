@@ -7,7 +7,7 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
 1. [Computer Science](computer-science/index.md)
     - [Algorithms](computer-science/algorithms.md)
     - [Datastructures](computer-science/datastructures.md)
-    - [Computer Basics]
+    - [Computer Basics](computer-science/computer-basics.md)
     - [Database Theory](computer-science/database-theory.md)
     - [Docker](computer-science/docker.md)
     - [Networking](computer-science/networking.md)
