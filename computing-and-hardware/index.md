@@ -1,8 +1,8 @@
 {% include breadcrumbs.html %}
 
-# Computer Science
+# Computing and Hardware
 
-Describe Computer Science
+description
 
 ## Subjects
 
