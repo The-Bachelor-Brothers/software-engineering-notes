@@ -6,7 +6,8 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
 
 1. [Computer Science](computer-science/index.md)
     - [Computer Basics](computer-science/computer-basics.md)
-    - [Docker](computer-science/docker.md)
+    - [Virtual Machines and Containerization](computer-science/virtual-machines-and-containerization/index.md)
+        - [Docker](computer-science/virtual-machines-and-containerization/docker.md)
     - [Networking](computer-science/networking.md)
     - [Operating Systems](computer-science/operating-systems.md)
 3. [Software Design and Programming](software-design-and-programming/index.md)
