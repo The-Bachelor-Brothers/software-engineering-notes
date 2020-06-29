@@ -1,6 +1,6 @@
 # Software Engineering Notes
 
-This repository contains notes, cheatsheets, links, videos and more, which we deemed relevant in understanding a given subject from a course. The repository will aim to keep things simple, and organized, so better or newer material will replace old and obsolete material. In other words, the repository will be used for notes that help us complete exams, but material not relevant after completing an exam will be deleted, to keep the information relevant in the long term.
+This site contains notes, cheatsheets, links, videos and more, which we deemed relevant in understanding a given subject from a course. The site will aim to keep things simple, and organized, so better or newer material will replace old and obsolete material. In other words, the site will be used for notes that help us complete exams, but material not relevant after completing an exam will be deleted, to keep the information relevant in the long term.
 
 ## Subjects covered
 
@@ -25,3 +25,5 @@ This repository contains notes, cheatsheets, links, videos and more, which we de
     - Organizational Theory
     - Project Organization & Management
 4. Software Engineering
+
+To contribute go to ![github-repo]()
