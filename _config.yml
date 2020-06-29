@@ -15,3 +15,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 remote_theme: "mmistakes/minimal-mistakes"
+
+sidebar:
+  nav: "docs"
