@@ -5,13 +5,14 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
 ## Subjects covered
 
 1. [Computer Science](computer-science/index.md)
-    - [Algorithms](computer-science/algorithms.md)
-    - [Datastructures](computer-science/datastructures.md)
     - [Computer Basics](computer-science/computer-basics.md)
-    - [Database Theory](computer-science/database-theory.md)
     - [Docker](computer-science/docker.md)
     - [Networking](computer-science/networking.md)
     - [Operating Systems](computer-science/operating-systems.md)
+3. [Software](Software/index.md)
+    - [Algorithms](computer-science/algorithms.md)
+    - [Datastructures](computer-science/datastructures.md)
+    - [Database Theory](computer-science/database-theory.md)
     - [Programming Languages](computer-science/programming-languages/index.md)
       - [C#](computer-science/programming-languages/csharp.md)
       - [Java](computer-science/programming-languages/java.md)
