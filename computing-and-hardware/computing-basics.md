@@ -1,1 +1,3 @@
-# Computing Basics
+---
+title: "Computing Basics"
+---
