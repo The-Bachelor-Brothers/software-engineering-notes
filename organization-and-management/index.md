@@ -2,10 +2,12 @@
 
 # Organization and Management
 
-Missing Description
+ description
 
-## Subjects covered
+## Subjects
 
 - [Cross Cultural Management](cross-cultural-management.md)
 - [Organizational Theory](organization-theory.md)
 - [Project Organization and Management](project-organization-and-management.md)
+
+{% include breadcrumbs.html %}

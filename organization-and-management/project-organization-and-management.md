@@ -82,3 +82,5 @@ Deliverables:
 ## Project Lead Approaches
 
 - [Socio-Technical Approach](https://en.wikipedia.org/wiki/Sociotechnical_system) — an approach to complex organizational work design that recognizes the interaction between people and technology in workplaces.
+
+{% include breadcrumbs.html %}

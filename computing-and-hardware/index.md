@@ -4,19 +4,13 @@
 
 Describe Computer Science
 
-## Subjects covered
+## Subjects
 
-- Algorithms & Datastructures
-- Computer Basics
-- Database Design & Programming
-- Docker
-- Network
-- Operating Systems
-- Programming Languages
-  - C#
-  - Java
-  - JavaScript
-  - PHP
-- Programming Paradigms
-  - Component-based
-  - Object-oriented
+- [Networking](networking/index.md)
+  - none yet
+- [Virtual Machines and Containerization](virtual-machines-and-containerization/index.md)
+  - [Docker](virtual-machines-and-containerization/docker.md)
+- [Computing Basics](computing-basics.md)
+- [Operating Systems](operating-systems.md)
+
+{% include breadcrumbs.html %}
