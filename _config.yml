@@ -4,6 +4,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+breadcrumbs: true
 include:
   - CONTRIBUTING.md
   - README.md
@@ -23,4 +24,3 @@ defaults:
       layout: single
       sidebar:
         nav: "docs"
-      breadcrumbs: true
