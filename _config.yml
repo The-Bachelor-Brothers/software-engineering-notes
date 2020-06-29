@@ -17,6 +17,12 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/the-bachelor-brothers/software-engineering-notes"
+
 repository: "the-bachelor-brothers/software-engineering-notes"
 
 remote_theme: "mmistakes/minimal-mistakes"

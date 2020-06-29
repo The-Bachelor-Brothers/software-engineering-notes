@@ -1,7 +1,3 @@
-main:
-  - title: "GitHub"
-    url: https://github.com/The-Bachelor-Brothers/software-engineering-notes
-
 docs:
   - title: Computing and Hardware
     children:
