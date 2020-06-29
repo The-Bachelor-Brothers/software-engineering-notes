@@ -5,11 +5,11 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
 ## Subjects covered
 
 1. [Computing and Hardware](computing-and-hardware/index.md)
-    - [Computer Basics](computer-science/computer-basics.md)
+    - [Computer Basics](computing-and-hardware/computer-basics.md)
     - [Virtual Machines and Containerization](computer-science/virtual-machines-and-containerization/index.md)
-        - [Docker](computer-science/virtual-machines-and-containerization/docker.md)
-    - [Networking](computer-science/networking.md)
-    - [Operating Systems](computer-science/operating-systems.md)
+        - [Docker](computing-and-hardware/virtual-machines-and-containerization/docker.md)
+    - [Networking](computing-and-hardware/networking.md)
+    - [Operating Systems](computing-and-hardware/operating-systems.md)
 3. [Software](software/index.md)
     - [Algorithms](computer-science/algorithms.md)
     - [Datastructures](computer-science/datastructures.md)
