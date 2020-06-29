@@ -4,7 +4,7 @@ This site contains notes, cheatsheets, links, videos and more, which we deemed r
 
 ## Subjects covered
 
-1. [Computer Science](./Computer%20Science/index)
+1. [Computer Science](computer-science/index)
     - Algorithms & Datastructures
     - Computer Basics
     - Database Design & Programming
