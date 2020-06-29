@@ -1,3 +1,5 @@
+{% include breadcrumbs.html %}
+
 # Algorithms
 
 description
