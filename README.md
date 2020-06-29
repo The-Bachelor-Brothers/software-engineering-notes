@@ -5,23 +5,25 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
 ## Subjects covered
 
 1. [Computer Science](computer-science/index.md)
-    - Algorithms & Datastructures
-    - Computer Basics
-    - Database Design & Programming
-    - Docker
-    - Network
-    - Operating Systems
-    - Programming Languages
-      - C#
-      - Java
-      - JavaScript
-      - PHP
-    - Programming Paradigms
-      - Component-based
-      - Object-oriented
+    - [Algorithms](computer-science/algorithms.md)
+    - [Datastructures](computer-science/datastructures.md)
+    - [Computer Basics]
+    - [Database Theory](computer-science/database-theory.md)
+    - [Docker](computer-science/docker.md)
+    - [Networking](computer-science/networking.md)
+    - [Operating Systems](computer-science/operating-systems.md)
+    - [Programming Languages](computer-science/programming-languages/index.md)
+      - [C#](computer-science/programming-languages/csharp.md)
+      - [Java](computer-science/programming-languages/java.md)
+      - [JavaScript](computer-science/programming-languages/javascript.md)
+      - [PHP](computer-science/programming-languages/php.md)
+    - [Programming Paradigms](computer-science/programming-paradigms/index.md)
+      - [Component-based](computer-science/programming-paradigms/component-based.md)
+      - [Object-oriented](computer-science/programming-paradigms/object-oriented.md)
 2. [Math](math/index.md)
 3. [Organization and Management](organization-and-management/index.md)
-    - Cross Cultural Management
-    - Organizational Theory
-    - Project Organization & Management
+    - [Cross Cultural Management](organization-and-management/cross-cultural-management.md)
+    - [Organizational Theory](organization-and-management/organizational-theory.md)
+    - [Project Organization and Management](organization-and-management/project-organization-and-management.md)
 4. [Software Engineering](software-engineering/index.md)
+    - [Software Processes](software-engineering/software-processes.md)
