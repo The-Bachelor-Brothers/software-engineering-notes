@@ -18,9 +18,9 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 defaults:
   - scope:
-      path: "*"
-      type: pages
+      path: ""
     values:
+      layout: single
       sidebar:
         nav: "docs"
       breadcrumbs: true
