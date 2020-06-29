@@ -17,7 +17,7 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
     - [Cross Cultural Management](organization-and-management/cross-cultural-management.md) NOT DONE
     - [Organizational Theory](organization-and-management/organizational-theory.md) - NOT DONE
     - [Project Organization and Management](organization-and-management/project-organization-and-management.md) - NOT DONE
-5. [Programming] - NOT DONE
+5. [Programming](programming/index.md) - NOT DONE
     - [Programming Languages](programming/programming-languages/index.md) - NOT DONE
       - [C#](programming/programming-languages/csharp.md) - NOT DONE
       - [Java](programming/programming-languages/java.md) - NOT DONE
