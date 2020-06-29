@@ -9,7 +9,7 @@ This site contains notes, cheatsheets, links, videos and more, which is deemed r
     - [Docker](computer-science/docker.md)
     - [Networking](computer-science/networking.md)
     - [Operating Systems](computer-science/operating-systems.md)
-3. [Software Design and Programming](Software/index.md)
+3. [Software Design and Programming](software-design-and-programming/index.md)
     - [Algorithms](computer-science/algorithms.md)
     - [Datastructures](computer-science/datastructures.md)
     - [Database Theory](computer-science/database-theory.md)
