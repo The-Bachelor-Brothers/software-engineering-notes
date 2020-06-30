@@ -1,14 +1,7 @@
-plugins:
-  - jekyll-relative-links
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-sitemap
-relative_links:
-  enabled: true
-  collections: true
-search: true
-search_full_content: true
-# breadcrumbs: true
+remote_theme: "mmistakes/minimal-mistakes"
+
+repository: "the-bachelor-brothers/software-engineering-notes"
+
 include:
   - CONTRIBUTING.md
   - LICENSE.md
@@ -18,15 +11,26 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
+plugins:
+  - jekyll-relative-links
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+title: "Software Engineering Notes"
+
+relative_links:
+  enabled: true
+  collections: true
+search: true
+search_full_content: true
+# breadcrumbs: true
+
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/the-bachelor-brothers/software-engineering-notes"
-
-repository: "the-bachelor-brothers/software-engineering-notes"
-
-remote_theme: "mmistakes/minimal-mistakes"
 
 defaults:
   - scope:
