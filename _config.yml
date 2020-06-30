@@ -1,6 +1,8 @@
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
@@ -9,7 +11,6 @@ search_full_content: true
 # breadcrumbs: true
 include:
   - CONTRIBUTING.md
-  - README.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
