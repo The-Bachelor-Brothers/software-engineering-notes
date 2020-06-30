@@ -18,6 +18,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Software Engineering Notes"
+description: "A site consolidating notes for sofware engineers, developers, project managers and more."
 
 relative_links:
   enabled: true
