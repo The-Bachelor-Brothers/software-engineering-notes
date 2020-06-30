@@ -43,3 +43,8 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "docs"
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
