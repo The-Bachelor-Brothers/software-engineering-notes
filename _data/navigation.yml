@@ -13,6 +13,11 @@ docs:
       - title: "Relational Databases"
         url: /databases/relational-databases
 
+  - title: Markup Languages
+    children:
+      - title: "HTML"
+        url: /markup-languages/html
+
   - title: Math
     children:
       - title: "empty"
@@ -20,8 +25,8 @@ docs:
 
   - title: Networking
     children:
-      - title: "empty"
-        url: /
+      - title: "Protocols"
+        url: /networking/protocols
 
   - title: Organizations and Management
     children:
